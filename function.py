@@ -16,7 +16,7 @@ def nome():
     print("")
 
 def cle():
-    system("cls")
+    system("clear")
 
 def cript(frase):
     cript = ""
